@@ -1,0 +1,11 @@
+.footer {
+    height: 5rem;
+    background-color: rgb(77, 76, 74);
+    gap: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: hsl(259, 92%, 42%);
+  }
+  
+ 
